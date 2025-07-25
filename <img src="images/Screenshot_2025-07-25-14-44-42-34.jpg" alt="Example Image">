@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Vikrant AI Studio</title>
+  <style>
+    body { font-family: Arial; background: #111; color: #fff; text-align: center; padding: 40px; }
+    h1 { color: #ff4c4c; }
+    a.button {
+      display: inline-block; margin: 15px; padding: 15px 30px;
+      background: #ff4c4c; color: #fff; text-decoration: none;
+      border-radius: 8px; font-weight: bold;
+    }
+    a.button:hover { background: #ff2222; }
+  </style>
+</head>
+<body>
+  <h1>🎬 Vikrant AI Studio</h1>
+  <p>Create. Animate. Download. Repeat.</p>
+
+  <a class="button" href="https://www.bing.com/create" target="_blank">🎭 Generate Character (Bing AI)</a>
+  <a class="button" href="https://www.pika.art/" target="_blank">🎞️ Animate Scene (Pika.art)</a>
+  <a class="button" href="https://www.canva.com/" target="_blank">🎨 Design with Canva</a>
+  <a class="button" href="https://drive.google.com/drive/my-drive" target="_blank">⬇️ Save to Drive</a>
+
+  <p style="margin-top: 40px; font-size: 14px;">Made by Vikrant Rajliwal for personal creative use</p>
+</body>
+</html>
